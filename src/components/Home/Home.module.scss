@@ -1,0 +1,12 @@
+.home {
+    width: 1051px;
+    min-height: 900px;
+    padding-top: 39px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    .h2 {
+        font-size: 26px;
+        font-weight: bold;
+    }
+}
