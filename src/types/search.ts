@@ -1,4 +1,6 @@
 export interface SearchItemProps {
-    title: string;
+    title: string | null;
+    data: any;
+
     
 }
